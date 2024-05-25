@@ -1,0 +1,10 @@
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\bin\Debug\REGular EXpressions.exe.config
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\bin\Debug\REGular EXpressions.exe
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\bin\Debug\REGular EXpressions.pdb
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\obj\Debug\REGular EXpressions.csproj.AssemblyReference.cache
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\obj\Debug\REGular_EXpressions.Form1.resources
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\obj\Debug\REGular_EXpressions.Properties.Resources.resources
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\obj\Debug\REGular EXpressions.csproj.GenerateResource.cache
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\obj\Debug\REGular EXpressions.csproj.CoreCompileInputs.cache
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\obj\Debug\REGular EXpressions.exe
+C:\Users\agawl\source\repos\REGular EXpressions\REGular EXpressions\obj\Debug\REGular EXpressions.pdb
